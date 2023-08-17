@@ -1,0 +1,20 @@
+/* nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5% ;
+    font-style: bold;
+    align-items: center;
+}
+nav > div{
+    font-size: 1.6rem;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    display: flex;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    width: 30%;
+    justify-content: space-between;
+} */
